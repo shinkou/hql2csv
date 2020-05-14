@@ -12,7 +12,7 @@ distros, make sure these packages are installed:
 - libsasl2-dev
 - libsasl2-modules
 
-### Install
+### Install Needed Modules
 
 Check out the repo with git.
 
@@ -20,7 +20,7 @@ Check out the repo with git.
 $ git clone https://github.com/shinkou/hql2csv.git
 ```
 
-Install with pip3 under the checked out directory.
+Install modules with pip3 under the checked out directory.
 
 ```
 $ pip3 install -r requirements.txt
